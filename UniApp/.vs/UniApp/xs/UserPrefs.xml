@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{FC78AEDF-371B-453E-A777-CB0B9ED8A20B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniApp/Controllers/StudentController.cs">
+    <Files>
+      <File FileName="UniApp/Controllers/StudentController.cs" Line="38" Column="13" />
+      <File FileName="UniApp/Data.cs" Line="28" Column="11" />
+      <File FileName="UniApp/Controllers/GroupController.cs" Line="17" Column="14" />
+      <File FileName="UniApp/Views/Group/Index.cshtml" Line="7" Column="38" />
+      <File FileName="UniApp/Program.cs" Line="1" Column="1" />
+      <File FileName="UniApp/Views/Shared/Error.cshtml" Line="3" Column="22" />
+      <File FileName="UniApp/Views/Student/Detail.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniApp" expanded="True">
+            <Node name="UniApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Group" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Student" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UniApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

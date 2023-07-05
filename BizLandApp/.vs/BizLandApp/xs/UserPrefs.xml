@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E9FEFBF6-78FB-47C0-8857-DD985F23F6DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BizLandApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BizLandApp/Program.cs">
+    <Files>
+      <File FileName="BizLandApp/Controllers/HomeController.cs" Line="22" Column="41" />
+      <File FileName="BizLandApp/Views/Home/Portfolio.cshtml" Line="145" Column="43" />
+      <File FileName="BizLandApp/Views/Home/Index.cshtml" Line="884" Column="26" />
+      <File FileName="BizLandApp/Views/Home/Inner_page.cshtml" Line="1" Column="1" />
+      <File FileName="BizLandApp/Program.cs" Line="11" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BizLandApp" expanded="True">
+            <Node name="BizLandApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

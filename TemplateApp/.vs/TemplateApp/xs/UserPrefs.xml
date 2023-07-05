@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{B6357B8D-156D-4EB0-B098-E186B14F2A22}|Default">
+  <MonoDevelop.Ide.ItemProperties.TemplateApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateApp/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="../UniApp/UniApp/Program.cs" Line="9" Column="1" />
+      <File FileName="TemplateApp/Program.cs" Line="9" Column="1" />
+      <File FileName="TemplateApp/Controllers/HomeController.cs" Line="13" Column="1" />
+      <File FileName="TemplateApp/Views/Index.cshtml" Line="453" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateApp" expanded="True">
+            <Node name="TemplateApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="favicon.ico" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

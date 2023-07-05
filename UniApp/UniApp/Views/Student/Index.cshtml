@@ -1,0 +1,17 @@
+﻿@model StudentIndexViewModel
+
+
+
+<ul>@foreach (var stu in Model.Students)
+	{
+		
+		<li>@stu.Name @stu.Surname</li>
+
+		
+		
+	}
+	@foreach (var gr in Model.Groups)
+		{
+			<li>@gr.Name @gr.Capacity</li>
+		}
+<ul/>
